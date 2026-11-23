@@ -1,0 +1,12 @@
+torch
+numpy
+scipy
+trimesh
+pyrender
+scikit-image
+matplotlib
+pandas
+tqdm
+pyyaml
+huggingface_hub
+objaverse
